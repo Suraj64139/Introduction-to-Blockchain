@@ -21,7 +21,8 @@ https://sepolia.etherscan.io/tx/0x2cca4b95ae11e4229bfb1290ac21e44fff9c7029453683
 
 
 # Hyperledger-Fabric
-1. Install Golang <br>
+<br>
+# 1. Install Golang <br>
 ```
 sudo apt install golang-go
 ```
@@ -47,5 +48,17 @@ Verifies that Docker is installed and running correctly.
 <br>
 
 ![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/fad6e939efb493a5dfa73b8162baf19620e55dbe/Screenshot%202025-04-14%20165256.png)
+
+
+# 3. Check Docker Compose Version
+```
+docker compose version
+```
+<br>
+Verifies the installation of Docker Compose.
+<br>
+# Screenshot
+
+![image alt](
 
 
