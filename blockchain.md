@@ -149,6 +149,11 @@ Creates a default channel (usually named mychannel) and joins the peers to it.
 # Screenshot
 <br>
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/b7d42d82b8e413f468afb6713ac7bfb01565fbd1/Screenshot%202025-04-14%20170433.png)
+<br>
+
+!image alt](
+
 
 
 
