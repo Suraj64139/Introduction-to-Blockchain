@@ -136,7 +136,18 @@ Starts the network by launching peer, orderer, and CA containers, and generates 
 # Screenshot
 <br>
 
-![image alt](
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/d5e2ad3d9d254e803597461ce181c49d3b97c6c7/Screenshot%202025-04-14%20170408.png)
+
+
+# 10. Create a Channel
+```
+./network.sh createChannel
+```
+<br>
+Creates a default channel (usually named mychannel) and joins the peers to it.
+<br>
+# Screenshot
+<br>
 
 
 
