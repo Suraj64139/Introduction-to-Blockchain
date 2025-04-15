@@ -110,6 +110,18 @@ Navigates to the directory that contains scripts for running a sample Fabric net
 # Screenshot
 
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/3c5672e4da437766ad0b846cb3cfa0b02061a965/Screenshot%202025-04-14%20170312.png)
+
+
+# 8. View the Network Script
+```
+./network.sh
+```
+<br>
+Shows the options available with the network.sh script.
+<br>
+# Screenshot
+
 ![image alt](
 
 
