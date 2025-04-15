@@ -59,6 +59,28 @@ Verifies the installation of Docker Compose.
 <br>
 # Screenshot
 
-![image alt](
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/f0e7030e2934003edd227856f12738ef5f78c4f6/Screenshot%202025-04-14%20165406.png)
+
+
+# 4. List Files in Current Directory
+```
+ls
+```
+<br>
+Shows the list of files and folders in the current directory.
+
+# 5. Clone the Fabric Samples Repository and Move into the Cloned Folder
+```
+git clone https://github.com/fabric-samples.git; cd fabric-samples
+```
+<br>
+Downloads the official Hyperledger Fabric sample code from GitHub.
+<br>
+Enters the cloned folder where Fabric examples are available.
+<br>
+# Screenshot
+
+
+
 
 
