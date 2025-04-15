@@ -163,6 +163,9 @@ Creates a default channel (usually named mychannel) and joins the peers to it.
 Stops all containers and deletes the crypto material and artifacts created during the setup.
 <br>
 # Screenshot
+<br>
+
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/b87b476ff879ebfc7bc9e0dfad4ee65dd882c102/Screenshot%202025-04-14%20170506.png)
 
 
 
