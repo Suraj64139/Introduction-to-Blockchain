@@ -80,6 +80,22 @@ Enters the cloned folder where Fabric examples are available.
 <br>
 # Screenshot
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/a412e11ccf757b0f3b822865b25107a96a146c2c/Screenshot%202025-04-14%20165816.png)
+
+
+
+# 6. Download Fabric Binaries
+```
+curl -sSL https://bit.ly/2ysbOFE | bash -s
+```
+<br>
+Downloads necessary Fabric binaries and Docker images like peer, orderer, and cryptogen.
+<br>
+# Screenshot
+
+
+![image alt](
+
 
 
 
