@@ -152,7 +152,17 @@ Creates a default channel (usually named mychannel) and joins the peers to it.
 ![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/b7d42d82b8e413f468afb6713ac7bfb01565fbd1/Screenshot%202025-04-14%20170433.png)
 <br>
 
-!image alt](
+
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/ab7222491cdb67b6f7bcbe52e2876b05f6c4ccfe/Screenshot%202025-04-14%20170452.png)
+
+# 11. Shut Down the Network
+```
+./network.sh down
+```
+<br>
+Stops all containers and deletes the crypto material and artifacts created during the setup.
+<br>
+# Screenshot
 
 
 
