@@ -44,5 +44,8 @@ docker --version
 Verifies that Docker is installed and running correctly.
 <br>
 # Screenshot
+<br>
+
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/fad6e939efb493a5dfa73b8162baf19620e55dbe/Screenshot%202025-04-14%20165256.png)
 
 
