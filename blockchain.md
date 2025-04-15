@@ -126,6 +126,16 @@ Shows the options available with the network.sh script.
 <br>
 
 
+# 9. Start the Fabric Network
+```
+./network.sh up
+```
+<br>
+Starts the network by launching peer, orderer, and CA containers, and generates the required cryptographic materials.
+<br>
+# Screenshot
+<br>
+
 ![image alt](
 
 
