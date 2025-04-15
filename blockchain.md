@@ -122,6 +122,10 @@ Shows the options available with the network.sh script.
 <br>
 # Screenshot
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/5a4cb5c56549fe0e8ded50e1e58ee57e020eaa2c/Screenshot%202025-04-14%20170340.png)
+<br>
+
+
 ![image alt](
 
 
