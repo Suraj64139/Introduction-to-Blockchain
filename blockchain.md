@@ -97,6 +97,19 @@ Downloads necessary Fabric binaries and Docker images like peer, orderer, and cr
 ![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/ca0f84356a691dc6682a0bc77347ffdfe86e14eb/Screenshot%202025-04-14%20165931.png)
 <br>
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/2337089bd13809a3d510b910077ad7ecb3ce270c/Screenshot%202025-04-14%20165957.png)
+
+
+# 7. Enter the Test Network Directory
+```
+cd test-network
+```
+<br>
+Navigates to the directory that contains scripts for running a sample Fabric network.
+<br>
+# Screenshot
+
+
 ![image alt](
 
 
