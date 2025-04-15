@@ -94,6 +94,9 @@ Downloads necessary Fabric binaries and Docker images like peer, orderer, and cr
 # Screenshot
 
 
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/ca0f84356a691dc6682a0bc77347ffdfe86e14eb/Screenshot%202025-04-14%20165931.png)
+<br>
+
 ![image alt](
 
 
