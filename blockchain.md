@@ -23,6 +23,34 @@ https://sepolia.etherscan.io/tx/0x2cca4b95ae11e4229bfb1290ac21e44fff9c7029453683
 4.Clicked on "Request 0.05 ETH".<br>
 5.ETH was sent to my wallet within a few seconds.<br>
 6.Verified the transaction on sepolia Etherscan.<br>
+<br>
+<br>
+# IPFS Practical - Uploading a file to IPFS
+# IPFS Installation
+I downloaded and install IPFS desktop for windows from the official website : (https://docs.ipfs.tech/install/ipfs-desktop/)
+
+# IPFS Setup
+1.After installing, I launched the IPFS desktop.
+<br>
+2.IPFS node automatically connected and status showed as Online.
+<br>
+![image alt](https://github.com/Shubham6149/introduction-to-blockchain/blob/180752cf40c31e3c7a3a8f53c9ac5aed9c81785d/Screenshot%20(2).png)
+
+
+# File Upload
+1.I clicked on the file section in IPFS Desktop.
+<br>
+2.Then i selected the option "Import" and uploaded a sample file, picture of flower and music also.
+<br>
+3.Once the file was uploaded, IPFS generate a unique CID(Content Identifier) for the file.
+<br>
+
+![image alt](https://github.com/user-attachments/assets/598b2de2-b467-4ffb-8a51-8e09ea39d1ca)
+
+<br>
+<br>
+<br>
+<br>
 
 
 
