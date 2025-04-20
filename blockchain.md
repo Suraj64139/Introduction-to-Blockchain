@@ -28,14 +28,16 @@ https://sepolia.etherscan.io/tx/0x2cca4b95ae11e4229bfb1290ac21e44fff9c7029453683
 # IPFS Practical - Uploading a file to IPFS
 # IPFS Installation
 I downloaded and install IPFS desktop for windows from the official website : (https://docs.ipfs.tech/install/ipfs-desktop/)
-
+<br>
 # IPFS Setup
 1.After installing, I launched the IPFS desktop.
 <br>
 2.IPFS node automatically connected and status showed as Online.
 <br>
-![image alt](https://github.com/Shubham6149/introduction-to-blockchain/blob/180752cf40c31e3c7a3a8f53c9ac5aed9c81785d/Screenshot%20(2).png)
+![image alt](https://github.com/user-attachments/assets/232b9f5f-f4eb-4a6c-ba49-eca2fbf73279)
 
+<br>
+<br>
 
 # File Upload
 1.I clicked on the file section in IPFS Desktop.
