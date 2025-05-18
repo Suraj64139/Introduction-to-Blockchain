@@ -235,7 +235,23 @@ Click on the Solidity compiler tab (compiler icon).
 <br>
 Click Compile to check for errors.
 <br>
-![image alt]()
+![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/29697e110284bbc393ecd2a1e9364b29376b5963/Screenshot%202025-05-18%20173358.png)
+<br>
+Step 4: Deploy the Smart Contract Go to the Deploy & Run Transactions tab in Remix.
+<br>
+Choose Environment as "JavaScript VM" (for testing in browser).
+<br>
+Click Deploy.
+<br>
+After deployment, contract will appear in the Deployed Contracts section.
+<br>
+Step 5: Interact with the Contract Now you can:
+<br>
+Click message() to read the current message.
+<br>
+Use setMessage() to change the message.
+<br>
+This simulates how smart contracts work on blockchain.
 
 
 
