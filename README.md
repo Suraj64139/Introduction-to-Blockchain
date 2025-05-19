@@ -38,4 +38,5 @@ contract Voting {
 
 ```
 <br>
-![image alt](https://github.com/Suraj64139/Introduction-to-Blockchain/blob/fb216ea76beb8a9122fd0d780bea2a8833fc85a8/Screenshot%202025-05-19%20135825.png)
+
+![Screenshot 2025-05-19 135825](https://github.com/user-attachments/assets/12c58483-00d6-467e-b9ef-9f9de0914681)
